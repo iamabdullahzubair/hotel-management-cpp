@@ -5,6 +5,8 @@
 2. goto.
 3. A good practices of basics of c++
 
+## [Demo](https://replit.com/@abdullah8674/HotelManagementSystem#main.cpp)
+
 >Here are Some Images ::
 
 ![image1](images/image1.png)
